@@ -1,0 +1,15 @@
+Tetris-like game for Marathoner Game Engine.
+
+How to install:
+Copy folder "Tetris" and file "Marathoner.cfg" in your Marathoner folder.
+
+How to run:
+Run game with "Marathoner.exe".
+
+Marathoner version required - v.0.2.0
+
+Tested on Windows 32bit only
+
+Copying:
+Source code of game are under Zlib license (read LICENSE file).
+png-fonts are under CC0 (Public Domain).

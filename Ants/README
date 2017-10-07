@@ -1,0 +1,43 @@
+Game made by me and Ilya Gribanov for Ludum Dare 38.
+
+How to install:
+Copy folder "Ants" and file "Marathoner.cfg" in your Marathoner folder.
+
+How to run:
+Run game with "Marathoner.exe".
+
+Marathoner version required - v.0.1.0
+Also game controller required.
+
+How to play:
+Save all your brosers. Avoid lens ray and other bugs.
+Controls:
+    Sticks - choose direction
+    Buttons - move
+
+Tested on Windows 32bit only
+
+Copying:
+Source code of game are under Zlib license (read LICENSE file).
+Graphics and sounds made by me are under CC0 (Public Domain):
+    Ants/textures/beetle.png
+    Ants/textures/beetle_corpse.png
+    Ants/textures/beetle2.png
+    Ants/textures/beetle2_corpse.png
+    Ants/textures/leaf.png
+    Ants/textures/lens.png
+    Ants/textures/mbf_big_00.png
+    Ants/textures/mbf_big_04.png
+    Ants/textures/note.png
+    Ants/textures/savedText_strip16.png
+    Ants/textures/spider.png
+    Ants/textures/spider_corpse.png
+    Ants/textures/tail.png
+    Ants/sounds/bugDeath.wav
+    Ants/sounds/step.wav
+    Ants/music/main.mp3
+Graphics and sounds made by Ilya Gribanov are under CC0 (Public Domain):
+    Ants/textures/ant_strip4.png
+    Ants/textures/ground.png
+    Ants/textures/stone.png
+    Ants/sounds/saved.wav
