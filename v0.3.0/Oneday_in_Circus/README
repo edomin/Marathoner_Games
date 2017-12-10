@@ -1,0 +1,20 @@
+Game made on Ludum Dare 40.
+
+How to install:
+Copy folder "Oneday_in_Circus" and file "Marathoner.cfg" in your Marathoner folder.
+
+How to run:
+Run game with "Marathoner.exe".
+
+Marathoner version required - v.0.3.0
+
+How to play:
+TODO
+Controls:
+TODO
+
+Tested on Windows 32bit only
+
+Copying:
+Source code of game are under Zlib license (read LICENSE file).
+All graphics, music and sounds are under CC0 (Public Domain).
